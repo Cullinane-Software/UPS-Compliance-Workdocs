@@ -5,7 +5,7 @@ This document highlights my experience in compliance, safety management, and ris
 
 
 
-UPS Safety and Compliance Manager Responsibilities in Compliance with OSHA Standards
+**UPS Safety and Compliance Manager Responsibilities in Compliance with OSHA Standards**
  
 
 1. Compliance Training (OSHA 1910.1200 – Hazard Communication)
