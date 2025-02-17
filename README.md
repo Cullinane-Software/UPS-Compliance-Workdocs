@@ -5,10 +5,10 @@ This document highlights my experience in compliance, safety management, and ris
 
 
 
-**UPS Safety and Compliance Manager Responsibilities in Compliance with OSHA Standards**
+# UPS Safety and Compliance Manager Responsibilities in Compliance with OSHA Standards
  
 
-1. Compliance Training (OSHA 1910.1200 – Hazard Communication)
+**1. Compliance Training (OSHA 1910.1200 – Hazard Communication)**
 
 • UPS-Specific Duty: Conduct or prepare orientation sessions and annual refresher training for drivers, insiders, and new hires. This includes general hazmat awareness training and instruction on workplace hazards and proper equipment usage.
 
@@ -20,7 +20,7 @@ This document highlights my experience in compliance, safety management, and ris
 
  
 
-2. Documentation and Recordkeeping (OSHA 29 CFR 1904 – Recordkeeping Requirements)
+**2. Documentation and Recordkeeping (OSHA 29 CFR 1904 – Recordkeeping Requirements)**
 
 • UPS-Specific Duty: Maintain organized training records, storing documentation in physical cabinets and the U-drive for online access per facility. Ensure records are updated and accessible in case of employee injuries. Training data is also recorded in G-SHRMIS.
 
@@ -30,7 +30,7 @@ This document highlights my experience in compliance, safety management, and ris
 
  
 
-3. Operations Support and Safety Compliance
+**3. Operations Support and Safety Compliance**
 
 • UPS-Specific Duty: Order necessary supplies and equipment for drivers and inside operations, ensuring workplace safety and efficiency (OSHA Act of 1970, Section 5(a)(1)).
 
@@ -42,7 +42,7 @@ This document highlights my experience in compliance, safety management, and ris
 
  
 
-4. Equipment Maintenance and Safety (OSHA 1910.132 – PPE, OSHA 1910.22 – General Safety Provisions)
+**4. Equipment Maintenance and Safety (OSHA 1910.132 – PPE, OSHA 1910.22 – General Safety Provisions)**
 
 • UPS-Specific Duty: Submit work orders for warehouse equipment repairs (e.g., extendos, broken tables) to maintain a safe working environment.
 
@@ -54,11 +54,11 @@ This document highlights my experience in compliance, safety management, and ris
 
  
 
-5. Hazardous Materials and Spill Response (OSHA 1910.120 – Hazardous Waste Operations and Emergency Response)
+**5. Hazardous Materials and Spill Response (OSHA 1910.120 – Hazardous Waste Operations and Emergency Response)**
 
  
 
-1. Hazmat Waste Management and Spill Response
+**1. Hazmat Waste Management and Spill Response**
 
 • UPS-Specific Duty: Oversee the Dangerous Materials Program (DMP), processing hazmat waste from spilled powders and liquids. Handle hazmat materials for destruction or storage in waste drums on-site.
 
@@ -68,7 +68,7 @@ This document highlights my experience in compliance, safety management, and ris
 
  
 
-2. Hazmat Training (OSHA 1910.120 – Training Requirements for Hazardous Waste Operations)
+**2. Hazmat Training (OSHA 1910.120 – Training Requirements for Hazardous Waste Operations)**
 
 • UPS-Specific Duty: Conduct annual hazmat training on hazard classification, identification, and response procedures. Train drivers and insiders on proper hazmat handling.
 
@@ -78,7 +78,7 @@ This document highlights my experience in compliance, safety management, and ris
 
  
 
-3. Hazmat Storage and Handling (OSHA 1910.106 – Flammable Liquids, OSHA 1910.176 – Handling and Storage of Materials)
+**3. Hazmat Storage and Handling (OSHA 1910.106 – Flammable Liquids, OSHA 1910.176 – Handling and Storage of Materials)**
 
 • UPS-Specific Duty: Ensure hazardous materials are stored properly, labeled correctly, and that spills are promptly contained. Follow specifications for storing flammable liquids.
 
@@ -86,7 +86,7 @@ This document highlights my experience in compliance, safety management, and ris
 
 
 
-4. Hazmat Disposal (OSHA 1910.120 – Disposal of Hazardous Waste, EPA Regulations)
+**4. Hazmat Disposal (OSHA 1910.120 – Disposal of Hazardous Waste, EPA Regulations)**
 
 • UPS-Specific Duty: Manage hazmat disposal, ensuring compliance with legal guidelines for destruction, waste drum processing, or contractor assignments.
 
@@ -96,7 +96,7 @@ This document highlights my experience in compliance, safety management, and ris
 
 
 
-5. Company Violations and Offenses (OSHA Penalties 29 CFR 1903.15 – Violations, Penalties, and Settlements)
+**5. Company Violations and Offenses (OSHA Penalties 29 CFR 1903.15 – Violations, Penalties, and Settlements)**
 
 • UPS-Specific Duty: Prevent company violations by ensuring full compliance with OSHA standards for hazardous material handling, training, storage, and disposal across all facilities. Train Responsible Management Personnel (RMPs) who oversee the Dangerous Materials Unit and its responder employees. Conduct annual recertification training for management teams and responders across Southern New Hampshire, ensuring they have the proper training, access to UPS resources, and knowledge of hazmat handling, SDS requests, disposal procedures, and quality assessments.
 
@@ -104,7 +104,7 @@ This document highlights my experience in compliance, safety management, and ris
 
 
 
-6. Workplace Safety Initiatives (Employee Engagement & Injury Prevention Programs)
+**6. Workplace Safety Initiatives (Employee Engagement & Injury Prevention Programs)**
 
 • UPS-Specific Duty: Implemented safety incentive programs to reduce workplace injuries and promote a strong safety culture. As part of the 2024 Safety Incentive Program, I developed multiple initiatives during peak season, reinforcing safe work practices and OSHA compliance.
 
@@ -118,7 +118,7 @@ This document highlights my experience in compliance, safety management, and ris
 
  
 
-7. Emergency Action Plans (OSHA 1910.38 – Emergency Action Plans)
+**7. Emergency Action Plans (OSHA 1910.38 – Emergency Action Plans)**
 
 • UPS-Specific Duty: Train employees on the Global Emergency Response Plan for hazmat, weather, and natural emergencies. Ensure employees know evacuation procedures and assembly points.
 
@@ -128,7 +128,7 @@ This document highlights my experience in compliance, safety management, and ris
 
  
 
-8. Fostering a Safety Culture
+**8. Fostering a Safety Culture**
 
 • UPS-Specific Duty: Ensure employees feel supported and safe by maintaining operational resources (e.g., water, equipment) and addressing safety concerns.
 
